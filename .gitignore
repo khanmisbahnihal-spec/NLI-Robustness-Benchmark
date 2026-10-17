@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model files (retrain with src/baseline_tfidf.py)
+models/
+*.joblib
+*.zip
+scibert_out/
+scibert_model/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
