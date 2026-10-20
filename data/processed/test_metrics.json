@@ -1,0 +1,5 @@
+{
+  "TF-IDF + LogReg": 0.530,
+  "SciBERT": 0.776,
+  "_note": "Macro-F1 on the original 4,000-pair SciNLI test set. Update SciBERT to the number printed by the Colab run that produced scibert_predictions.csv."
+}
